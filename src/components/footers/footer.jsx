@@ -57,7 +57,7 @@ function Footer(){
 
                 <p className="copyright">
 
-                    © 2026 Valdora. All Rights Reserved.
+                    © 2026 Prathik. All Rights Reserved.
 
                 </p>
 
